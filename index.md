@@ -1,3 +1,3 @@
-1. Thoughs on computer architecture papers.
-2. Tricks on gem5 and runing benchmarks
-3. Lecture Notes
+I am a PhD candidate in computer system.
+This is a blog to keep my recent progress.
+Feel free if you want to discuss with me.

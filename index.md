@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+1. Thoughs on computer architecture papers.
+2. Tricks on gem5 and runing benchmarks
+3. Lecture Notes
